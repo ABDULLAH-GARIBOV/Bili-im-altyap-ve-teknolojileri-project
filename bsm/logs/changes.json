@@ -1,0 +1,10 @@
+{"event_type": "created", "src_path": "/home/vboxuser/bsm/test/sample.txt", "timestamp": "2024-12-20 20:57:28"}
+{"event_type": "modified", "src_path": "/home/vboxuser/bsm/test", "timestamp": "2024-12-20 20:57:28"}
+{"event_type": "modified", "src_path": "/home/vboxuser/bsm/test/sample.txt", "timestamp": "2024-12-20 20:57:28"}
+{"event_type": "modified", "src_path": "/home/vboxuser/bsm/test", "timestamp": "2024-12-20 20:57:28"}
+{"event_type": "modified", "src_path": "/home/vboxuser/bsm/test/sample.txt", "timestamp": "2024-12-20 20:58:35"}
+{"event_type": "modified", "src_path": "/home/vboxuser/bsm/test", "timestamp": "2024-12-20 20:58:35"}
+{"event_type": "created", "src_path": "/home/vboxuser/bsm/test/qwerty.txt", "timestamp": "2024-12-20 21:17:03"}
+{"event_type": "modified", "src_path": "/home/vboxuser/bsm/test", "timestamp": "2024-12-20 21:17:03"}
+{"event_type": "modified", "src_path": "/home/vboxuser/bsm/test/qwerty.txt", "timestamp": "2024-12-20 21:17:03"}
+{"event_type": "modified", "src_path": "/home/vboxuser/bsm/test", "timestamp": "2024-12-20 21:17:03"}
